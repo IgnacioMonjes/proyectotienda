@@ -5,8 +5,10 @@ const Navbar = () => {
     return(
         <nav className = "Navbar">
             <div>
-                <h1>Ecommerce</h1>
                 <CartWidget/>
+                <h1> 
+                Ecommerce
+                </h1>
             </div>
             <div>
                 <button className = "NavbarButton">Celulares</button>

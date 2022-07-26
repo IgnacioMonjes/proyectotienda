@@ -2,8 +2,8 @@ import './CartWidget.css'
 
 const CartWidget = () => {
     return(
-        <div>
-            <img src='images/Carrito.png'/>
+        <div class = "CardWidget">
+            <img class= "Carrito" src='images/Carrito.png'/>
              10   
         </div>
     )
