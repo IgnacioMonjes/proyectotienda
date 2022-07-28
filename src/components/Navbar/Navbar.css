@@ -2,7 +2,7 @@
 */
 .Navbar {
     background-color: rgba(232, 224, 170, 0.936);
-    min-height: 80vh;
+    min-height: 10vh;
     display: flex;
     flex-direction: column;
     /*
