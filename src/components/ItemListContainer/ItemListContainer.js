@@ -20,7 +20,7 @@ const ItemListContainer = ({ greeting }) =>{
             {/*<ul > */}
                 {/*products.map(prod => <li key= {prod.id}>{prod.name}</li>)*/}
             {/*</ul> */}
-*/           <ItemList products ={products}/> 
+           <ItemList products ={products}/> 
         </>
     )
 }
